@@ -1,1 +1,2 @@
-mb:23
+wordConfig:
+  preamble: The lucky word is
